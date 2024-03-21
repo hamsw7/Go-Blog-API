@@ -1,3 +1,6 @@
+/* Create an HTML form with fields for "username" and "password", along with a submit button. 
+Using JavaScript, validate that both fields are filled out when the submit button is clicked. If either field is empty, display an appropriate error message.*/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
