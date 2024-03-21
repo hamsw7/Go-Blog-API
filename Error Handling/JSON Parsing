@@ -1,1 +1,18 @@
+/* Attempt to parse an invalid JSON string "{'name': 'John', 'age': 30}" using JSON.parse(). 
+Wrap the parsing code in a try-catch block to handle any errors. If successful, log the parsed object to the console; if an error occurs, log "Error: Invalid JSON string!".*/
 
+// Error Handling With JSON Parsing
+
+const jsParse = { 
+      name : John,
+      age : 30
+};
+try {
+
+const parser = JSON.parse (jsParse);
+
+ console.log(parser);
+}
+catch (error) {
+console.log('Error: invalid JSON string');
+}
