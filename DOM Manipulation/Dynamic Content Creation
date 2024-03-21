@@ -1,3 +1,6 @@
+/* Create an HTML file with an empty div element having an id of "dynamicContent". 
+Using JavaScript, dynamically create and append five paragraph elements to the div. Each paragraph should contain a unique message or text.*/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
