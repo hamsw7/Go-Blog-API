@@ -1,1 +1,3 @@
-## this contains a set of test tasks around Javascript Programming Language
+# Go-Blog-API
+
+Backend: Blog CRUD API with Go - WIP
